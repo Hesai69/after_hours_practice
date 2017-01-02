@@ -16,3 +16,13 @@ html {
 /* ======================================= */
 /*    Students: Write Your Styles Below!   */
 /* ======================================= */
+
+img {
+  width: 90%;
+  position: relative;
+  left: 71px;
+  top: -7px;
+}
+div {
+  position: relative;
+}
