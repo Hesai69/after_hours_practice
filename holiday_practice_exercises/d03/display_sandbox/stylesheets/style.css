@@ -17,8 +17,17 @@ h1 {
 .green {
   background-color: green;
 }
+.purple {
+  background-color: purple;
+}
 
 div {
   height: 200px;
   width: 200px;
+  display: inline-block;
+  margin-right: -5px;
+}
+
+li {
+  display: inline-block;
 }
