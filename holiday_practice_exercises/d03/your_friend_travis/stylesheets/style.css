@@ -12,3 +12,33 @@ html, body {
 
 /* background color in header & footer: #323232 */
 /* text color code for the header/footer: #DBDBDB       */
+header {
+  background-color: #323232;
+  color: #DBDBDB;
+  padding: 10px;
+  margin: 0px;
+}
+li {
+  display: inline-block;
+  margin: 0px;
+  position: relative;
+  left: 100px;
+}
+.travis {
+  background-image: url("images/cropped-headshot.jpg");
+  width: 60%;
+  position: relative;
+  left: 20%;
+  overflow: hidden;
+}
+p {
+  display: inline-block;
+  vertical-align: 315px;
+  top: 50px;
+  font-size: 30px;
+}
+img {
+  position: relative;
+  top: 290px;
+  overflow: hidden;
+}
